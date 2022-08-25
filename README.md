@@ -3,10 +3,10 @@
 <td valign="top"><a href="https://www.linkedin.com/in/prognhaug/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Jan Odvar Grindheim | LinkedIn"/></a></td>
 
 ## Recently got back into programming, and I'm currently studying for a professional degree in back-end development.
-
+<!--
 ### Project links
 * [Dice Game](https://prognhaug.github.io/DiceGame/)
-<!--
+
 **prognhaug/prognhaug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
