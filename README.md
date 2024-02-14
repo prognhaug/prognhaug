@@ -14,7 +14,7 @@ Things that doesn't work properly irk me. Repetitive tasks are not my jam. Human
 
 #### :earth_africa: My interests in life
 
-I want to taste everything life has to offer. I play instruments (badly), I sing (even worse), I go for week-long hikes in the norwegian mountains, I climb both in the gym and in the mountains, I surf, I play videogames and much much more.
+I want to taste everything life has to offer. I play instruments (badly), I sing (even worse), in the summer you can find me far into the norwegian mountains with nothing but what I can fit in my backpack to keep me alive or dangling from a rope on a mountainface. In the winter I play videogames, read books, watch movies and complain about the weather.
 
 Laughter should always be cheap and accessible.
 
