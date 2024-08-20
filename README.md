@@ -1,8 +1,8 @@
 ## Welcome, fellow code cosmonaut :rocket:
 
-- 🔭 I’m currently working on integrations for accounting software at Aider AS
+- 🔭 Fullstack developer at Aider AS, focusing on integration frameworks and solutions. I also dabble in PowerBI.
 
-- 🌱 I’m also studying part-time for a degree in backend development, finishing in June 2024
+- 🌱 Professional Degree in Backend Development
 
 #### :ship: My journey
 
@@ -14,7 +14,7 @@ Things that doesn't work properly irk me. Repetitive tasks are not my jam. Human
 
 #### :earth_africa: My interests in life
 
-I want to taste everything life has to offer. I play instruments (badly), I sing (even worse), in the summer you can find me far into the norwegian mountains with nothing but what I can fit in my backpack to keep me alive or dangling from a rope on a mountainface. In the winter I play videogames, read books, watch movies and complain about the weather.
+I want to taste everything life has to offer. In the summer I hike, climb and surf. In the winter I play videogames, read books, watch movies and complain about the weather.
 
 Laughter should always be cheap and accessible.
 
